@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/user/data/itschool/projects/game/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d934daf3093a465c2d87fb9bef1581a0e2d96a4">
+        <dex dex="/media/user/data/itschool/projects/game/android/build/intermediates/pre-dexed/debug/core-1.0_fa1f2000c77d716fdbc615ac7c986ebdf2b9d0e0.jar" />
+    </item>
+
+</items>
